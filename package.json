@@ -17,6 +17,7 @@
     "copy-webpack-plugin": "^10.2.4",
     "css-loader": "^6.7.1",
     "file-loader": "^6.2.0",
+    "gh-pages": "^4.0.0",
     "gsap": "^3.5.1",
     "html-loader": "^3.1.0",
     "html-webpack-plugin": "^5.5.0",
@@ -34,6 +35,5 @@
   "description": "## Setup Download [Node.js](https://nodejs.org/en/download/). Run this followed commands:",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "author": ""
 }
